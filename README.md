@@ -60,9 +60,6 @@ Keep `index.html`, `style.css`, and `myphoto.png` together in the same folder. T
 - [x] Project description included
 - [x] Desktop screenshot included
 - [x] Mobile screenshot included
-- [ ] Before submitting, open the extracted ZIP and confirm the website and photo load correctly on your computer.
-- [ ] Verify the contact details and all displayed information are accurate.
-
 ## Project Description
 
 I developed a personal portfolio website using HTML5 and CSS3 to showcase my technical skills, academic achievements, certifications, and projects. The website includes Home, About, Skills, Projects, Achievements, and Contact sections. I used CSS Flexbox, Grid, hover effects, and media queries to create an attractive and responsive design. This project helped me improve my front-end development skills and build a professional online presence.
